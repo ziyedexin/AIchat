@@ -76,7 +76,7 @@ const IndexHeader: React.FC<{
             <div className={styles.siteIntroduction}>
                 <div className={styles.title}>
                     <span className={styles.item}>算法社</span>
-                    <span className={styles.item}>GPT</span>
+                    <span className={styles.item}>AI</span>
                 </div>
                 <div className={styles.description}>Based on gpt-3.5-turbo</div>
             </div>
